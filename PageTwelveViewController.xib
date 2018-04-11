@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageTwelveViewController">
+            <connections>
+                <outlet property="scrollView" destination="19" id="20"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="3450"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="19">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="3450"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  12. William Fuller" lineBreakMode="tailTruncation" minimumFontSize="10" id="4">
+                            <rect key="frame" x="-1" y="200" width="320" height="29"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="5">
+                            <rect key="frame" x="9" y="237" width="300" height="1480"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <string key="text">Even though William Fuller never fought in the Civil War, he’s a decorated Confederate hero: he and Anthony Murphy were responsible for thwarting the plans of James Andrews in what came to be known as the Great Locomotive Chase. 
+
+In 1862, the Union devised a plan to claim Tennessee. They had troops in Alabama ready to attack Confederate General Ledbetter’s forces in Chattanooga. Union soldiers would easily outnumber Confederate forces… unless additional troops from Atlanta joined in. Their goal was to prevent reinforcements from coming in by shutting down the railroads between Atlanta and Chattanooga. If they could stall long enough, Chattanooga would be forced to surrender to the Yankees.
+
+Union spy James Andrews and a crew of 21 men, dubbed Andrews’ Raiders, were tasked with disabling the railroads. Andrews planned to derail enemy trains by damaging the tracks, sabotaging switches, and burning covered bridges. Additionally, he would cut telegraph lines along the way so the engineers wouldn’t be forewarned. To carry out the mission, they’d need a train – so they planned to hijack a Confederate train, The General. 
+
+However, William Fuller, conductor of The General, was a man to be reckoned with. He and Anthony Murphy, the foreman of another train who happened to be a passenger onboard the General, gave Andrews’ Raiders a run for their money. 
+
+On April 12, 1862, The General was parked for a breakfast stop in Big Shanty, a depot just outside Atlanta. “Someone…. has stolen… our train!” William Fuller said, with big eyes as he watched the General gathering steam down the tracks [www.aboutnorthgeorgia.com]. Sure enough, Andrews Raiders had stolen his locomotive. Fuller and Murphy left in hot pursuit of the Yankees… on foot. Yes, on foot. 
+
+Two miles down the track the two men happened upon a handcar, which was a tremendous boon - since the route was primarily downhill. However, Andrews had already tampered with the track and a section was raised. The handcar shot into the air and the men went flying. Luckily, they escaped with just bruises, and bruised egos. 
+
+The next part of their pursuit was, again, on foot.  
+
+Fuller and Murphy flagged down a passing train and made good time until they hit congestion. The General had also been held up in the traffic jam, costing them an hour; Fuller and Murphy abandoned their train and ran through town instead. 
+
+Fuller held up another passing locomotive, The Texas, at gunpoint. The crew recognized the conductor and were happy to assist the pursuit, only their train was headed the wrong direction. So they joined in… backwards! </string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </label>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="7">
+                            <rect key="frame" x="-1" y="0.0" width="320" height="200"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="William Fuller grave" image="William Fuller grave.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="22"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="8">
+                            <rect key="frame" x="9" y="2886" width="300" height="200"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Atlanta Roundhouse" image="Atlanta Roundhouse.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="24"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Atlanta Roundhouse" lineBreakMode="tailTruncation" minimumFontSize="10" id="11">
+                            <rect key="frame" x="9" y="3089" width="280" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Great Locomotive Chase" lineBreakMode="tailTruncation" minimumFontSize="10" id="SQ2-Fx-TH5">
+                            <rect key="frame" x="9" y="1967" width="280" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="tzG-sO-OhY">
+                            <rect key="frame" x="9" y="1725" width="300" height="240"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
+                            <state key="normal" title="Great Locomotive Chase" image="Great Locomotive Chase.png">
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <state key="highlighted">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="gCb-6a-d0K"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="aqk-4G-mar">
+                            <rect key="frame" x="9" y="2318" width="300" height="167"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <string key="text">'My train was captured this a.m. at Big Shanty, evidently by Federal soldiers in disguise. They are making rapidly for Chattanooga, possibly with the idea of burning the railroad bridges in their rear. If I do not capture them in the meantime, see that they do not pass Chattanooga.'</string>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="x0K-Mc-5BE">
+                            <rect key="frame" x="9" y="2478" width="300" height="410"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <mutableString key="text">Andrews’ men were cutting telegraph wires at every depot, but part of Fuller’s message made it through to Ledbetter in time. He sent troops to intercept the stolen train, but it wasn’t necessary: after the 80 mile chase, the General ran out of water and wood, and sputtered to a stop just south of Chattanooga. Now it was the Raiders who were on foot, running for their lives through the Tennessee hills.
+
+All 22 Raiders were captured and jailed. Eight of them, including James Andrews, were hanged in Atlanta for espionage. 
+
+In due time, Fuller, Murphy and Andrews’ Raiders all received medals, awards, and recognition for their heroic efforts. William Fuller and Anthony Murphy are interred here at Oakland Cemetery.
+</mutableString>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="V9s-Kb-dBr">
+                            <rect key="frame" x="9" y="1996" width="300" height="330"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <string key="text">The locomotive screeched off in reverse.  A few miles up the track, another passing train, The Catoosa, joined the pursuit… also in reverse. Surprised townspeople lined the tracks to watch the noisy, comical locomotive race. 
+
+Andrews’ Raiders had dumped one of the General’s railroad cars sideways on a covered bridge, then set fire to it. But rain had slowed the fire and The Texas barreled through the flames, followed closely by The Catoosa. 
+
+Fuller made a quick stop to relay the following telegram to Confederate General Ledbetter in Chattanooga:</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="17">
+                            <rect key="frame" x="20" y="3146" width="280" height="110"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <string key="text">Directions: Go back to the road and turn right. As you approach the Bell Tower on the left, turn right on Lowndes path. The second marker on the right is Tweet's.</string>
+                            <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                            <size key="shadowOffset" width="0.0" height="0.0"/>
+                        </label>
+                    </subviews>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="23"/>
+                    </connections>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Atlanta Roundhouse.png" width="350" height="234"/>
+        <image name="Great Locomotive Chase.png" width="340" height="269"/>
+        <image name="William Fuller grave.png" width="640" height="428"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

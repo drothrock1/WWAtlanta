@@ -1,0 +1,2502 @@
+TWickedWalksAtlantaOakland
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C33AF130000000000000110
+t1278455571
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004BD2005600000000000102F0
+t1272053846
+s66288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004BD2005500000000000000EB
+t1272053845
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004BD1FEEA00000000001F0F00
+t1272053482
+s2035456
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004BD1D83E00000000000001D5
+t1272043582
+s469
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004BD1D83E000000000000017D
+t1272043582
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004BD1D85F0000000000185260
+t1272043615
+s1593952
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/AboutViewController.h
+c000000004C3BC42A0000000000000110
+t1278985258
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/AboutViewController.m
+c000000004C4797B700000000000006CE
+t1279760311
+s1742
+i"AboutViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/AboutViewController.xib
+c000000004C479757000000000000814F
+t1279760215
+s33103
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/AppDelegate.h
+c000000004C3BC42A00000000000001A6
+t1278985258
+s422
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/AppDelegate.m
+c000000004C48FC6C0000000000000595
+t1279851628
+s1429
+i"AppDelegate.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Atlanta Cemetery tree-1.png
+c000000004BCD0AA3000000000003326D
+t1271728803
+s209517
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Atlanta Roundhouse sm-1.png
+c000000004C3231D70000000000019B60
+t1278357975
+s105312
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Atlanta Roundhouse.png
+c000000004C3231EC000000000001D081
+t1278357996
+s118913
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Bell Tower header-1.png
+c000000004C3229E4000000000001F462
+t1278355940
+s128098
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Bell Tower.png
+c000000004C322A15000000000002EE98
+t1278355989
+s192152
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Bobby Jones header-1.png
+c000000004C321F02000000000001D698
+t1278353154
+s120472
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Bobby Jones.png
+c000000004C321F380000000000032B00
+t1278353208
+s207616
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Cemetery marker - woman mourning-1.png
+c000000004BE887ED000000000000A6DD
+t1273530349
+s42717
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Cemetery marker-1.png
+c000000004BE88779000000000001E513
+t1273530233
+s124179
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate Obelisk sm-1.png
+c000000004C32266E000000000001C10E
+t1278355054
+s114958
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate Obelisk.png
+c000000004C32429F0000000000036384
+t1278362271
+s222084
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate Section header-1.png
+c000000004C3224FE0000000000024D56
+t1278354686
+s150870
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate Section.png
+c000000004C3225BA0000000000038DDD
+t1278354874
+s232925
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate graves sm-1-1.png
+c000000004C3A6BFB000000000001DA4C
+t1278897147
+s121420
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Confederate graves.png
+c000000004C3A6BD50000000000047393
+t1278897109
+s291731
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Constants.h
+c000000004C3BC42A0000000000000143
+t1278985258
+s323
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Default.png
+c000000004C48FAB8000000000002DA47
+t1279851192
+s186951
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/DirectionsViewController.h
+c000000004C3BC42A000000000000011C
+t1278985258
+s284
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/DirectionsViewController.m
+c000000004C44FDD700000000000006EC
+t1279589847
+s1772
+i"DirectionsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/DirectionsViewController.xib
+c000000004C44FDAB000000000000E6A4
+t1279589803
+s59044
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Grant Mausoleum header-1-1.png
+c000000004C322C4F00000000000200AB
+t1278356559
+s131243
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Grant Mausoleum.png
+c000000004C322C0A000000000002BA71
+t1278356490
+s178801
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Great Locomotive Chase sm-1.png
+c000000004C323151000000000001E03F
+t1278357841
+s122943
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Great Locomotive Chase.png
+c000000004C32325B000000000002173B
+t1278358107
+s137019
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HelpViewController.h
+c000000004C3BC42A000000000000010E
+t1278985258
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HelpViewController.m
+c000000004C3BC42A00000000000006CC
+t1278985258
+s1740
+i"HelpViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HelpViewController.xib
+c000000004C38BEBA000000000000720A
+t1278787258
+s29194
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HoursViewController.h
+c000000004C3BC42A0000000000000110
+t1278985258
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HoursViewController.m
+c000000004C45003800000000000006CE
+t1279590456
+s1742
+i"HoursViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/HoursViewController.xib
+c000000004C4500C400000000000054BA
+t1279590596
+s21690
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Hugh Inman sm-1.png
+c000000004C433E4C0000000000017E2B
+t1279475276
+s97835
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Hugh Inman.png
+c000000004C4337E0000000000003D679
+t1279473632
+s251513
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Icon.png
+c000000004C48FB170000000000001E73
+t1279851287
+s7795
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Infobutton.png
+c000000004BE224F900000000000003E1
+t1273111801
+s993
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/James Nissen header.png
+c000000004C321E8D0000000000028BD7
+t1278353037
+s166871
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/James Nissen.png
+c000000004C321E5E000000000003B8FB
+t1278352990
+s243963
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Jasper Smith header.png
+c000000004C32203B000000000001283E
+t1278353467
+s75838
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Jasper Smith.png
+c000000004C321FE50000000000024089
+t1278353381
+s147593
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Jim Conley sm-1.png
+c000000004C322FB30000000000007A27
+t1278357427
+s31271
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Jim Conley.png
+c000000004C324566000000000001AAB8
+t1278362982
+s109240
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/LargePhotoViewController.h
+c000000004C3BC42A0000000000000190
+t1278985258
+s400
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/LargePhotoViewController.m
+c000000004C43C3FA000000000000058E
+t1279509498
+s1422
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Leo Frank in death-sm.png
+c000000004C322E110000000000009034
+t1278357009
+s36916
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Leo Frank in death.png
+c000000004C322E350000000000022F8A
+t1278357045
+s143242
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Leo Frank in life-sm.png
+c000000004C322D0500000000000078F8
+t1278356741
+s30968
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Leo Frank in life.png
+c000000004C324501000000000001C9F2
+t1278362881
+s117234
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Leo Frank-1.png
+c000000004BCD20BB000000000001AA08
+t1271734459
+s109064
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Lion of the Confederacy header-1.png
+c000000004C3A5774000000000002408F
+t1278891892
+s147599
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Lion of the Confederacy.png
+c000000004C3228330000000000038B3B
+t1278355507
+s232251
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/LoadingScreen1-1-1.png
+c000000004C3A69A600000000000414A6
+t1278896550
+s267430
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/LoadingScreen17c.png
+c000000004C48F3EF0000000000033E04
+t1279849455
+s212484
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Louise Inman header-1.png
+c000000004C43396E000000000001B688
+t1279474030
+s112264
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Louise Inman.png
+c000000004C433A4D000000000003D930
+t1279474253
+s252208
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/MapViewIcon.png
+c000000004B9455ED00000000000000FC
+t1268012525
+s252
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Margaret Mitchell marker header-1.png
+c000000004C323F660000000000022BB3
+t1278361446
+s142259
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Margaret Mitchell marker.png
+c000000004C323F3F000000000003377C
+t1278361407
+s210812
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Margaret Mitchell sm-1.png
+c000000004C324024000000000000AA7A
+t1278361636
+s43642
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Margaret Mitchell.png
+c000000004C324040000000000001BFAD
+t1278361664
+s114605
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Martha Compton grave lg-1.png
+c000000004C321DBB0000000000023D39
+t1278352827
+s146745
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Martha Compton grave sm-1.png
+c000000004C321E2700000000000134A2
+t1278352935
+s79010
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Mary Phagan sm-1.png
+c000000004C322FF00000000000009880
+t1278357488
+s39040
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Mary Phagan, Jim Conley-1.png
+c000000004BCD1D830000000000016D78
+t1271733635
+s93560
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Mary Phagan.png
+c000000004C32300F000000000001F138
+t1278357519
+s127288
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Moses Formwalt header-1.png
+c000000004C3228CD00000000000222EC
+t1278355661
+s140012
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Moses Formwalt.png
+c000000004C322955000000000002D13A
+t1278355797
+s184634
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Niobe Rocks.png
+c000000004C4340CC000000000002209E
+t1279475916
+s139422
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Niobe header-1.png
+c000000004C4326E3000000000001E543
+t1279469283
+s124227
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Niobe.png
+c000000004C432596000000000002F939
+t1279468950
+s194873
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Oakland Cemetery Gates-1.png
+c000000004BCCFD6B0000000000050042
+t1271725419
+s327746
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageEightViewController.h
+c000000004C3BC42A0000000000000358
+t1278985258
+s856
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageEightViewController.m
+c000000004C43C3FA00000000000032E7
+t1279509498
+s13031
+i"PageEightViewController.h"
+i"Constants.h"
+i"PageSevenViewController.h"
+i"PageNineViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageEightViewController.xib
+c000000004C436BA80000000000008859
+t1279486888
+s34905
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageElevenViewController.h
+c000000004C3BD077000000000000035A
+t1278988407
+s858
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageElevenViewController.m
+c000000004C43C3FA00000000000032EC
+t1279509498
+s13036
+i"PageElevenViewController.h"
+i"Constants.h"
+i"PageTenViewController.h"
+i"PageTwelveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageElevenViewController.xib
+c000000004C436C1E0000000000006C7F
+t1279487006
+s27775
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFiveViewController.h
+c000000004C3BC42A0000000000000357
+t1278985258
+s855
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFiveViewController.m
+c000000004C43C3FA00000000000032A5
+t1279509498
+s12965
+i"PageFiveViewController.h"
+i"Constants.h"
+i"PageFourViewController.h"
+i"PageSixViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFiveViewController.xib
+c000000004C43A12C0000000000007BA7
+t1279500588
+s31655
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFourViewController.h
+c000000004C3BC42A0000000000000355
+t1278985258
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFourViewController.m
+c000000004C43C3FA00000000000032B5
+t1279509498
+s12981
+i"PageFourViewController.h"
+i"Constants.h"
+i"PageThreeViewController.h"
+i"PageFiveViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFourViewController.xib
+c000000004C439CC60000000000007F31
+t1279499462
+s32561
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageNineViewController.h
+c000000004C3BD0770000000000000356
+t1278988407
+s854
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageNineViewController.m
+c000000004C43C3FA00000000000032DB
+t1279509498
+s13019
+i"PageNineViewController.h"
+i"Constants.h"
+i"PageEightViewController.h"
+i"PageTenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageNineViewController.xib
+c000000004C47ABA0000000000000DC2A
+t1279765408
+s56362
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageOneViewController.h
+c000000004C43BEFF000000000000038E
+t1279508223
+s910
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageOneViewController.m
+c000000004C43C70D0000000000003376
+t1279510285
+s13174
+i"PageThirteenViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSevenViewController.h
+c000000004C3BC42A0000000000000358
+t1278985258
+s856
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSevenViewController.m
+c000000004C43C3FB00000000000032DE
+t1279509499
+s13022
+i"PageSevenViewController.h"
+i"Constants.h"
+i"PageSixViewController.h"
+i"PageEightViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSevenViewController.xib
+c000000004C436BC50000000000006DD2
+t1279486917
+s28114
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSixViewController.h
+c000000004C3BC42A0000000000000355
+t1278985258
+s853
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSixViewController.m
+c000000004C43C3FB00000000000032B3
+t1279509499
+s12979
+i"PageSixViewController.h"
+i"Constants.h"
+i"PageFiveViewController.h"
+i"PageSevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSixViewController.xib
+c000000004C436F890000000000007BB8
+t1279487881
+s31672
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTenViewController.h
+c000000004C3BD0770000000000000354
+t1278988407
+s852
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTenViewController.m
+c000000004C43C3FB00000000000032E9
+t1279509499
+s13033
+i"PageTenViewController.h"
+i"Constants.h"
+i"PageNineViewController.h"
+i"PageElevenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTenViewController.xib
+c000000004C436C05000000000000AFA4
+t1279486981
+s44964
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThirteenViewController.h
+c000000004C4362A60000000000000367
+t1279484582
+s871
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThirteenViewController.m
+c000000004C46466C00000000000032FC
+t1279673964
+s13052
+i"PageThirteenViewController.h"
+i"Constants.h"
+i"PageTwelveViewController.h"
+i"PageOneViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThirteenViewController.xib
+c000000004C43A0A00000000000007D96
+t1279500448
+s32150
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThreeViewController.h
+c000000004C43BF900000000000000390
+t1279508368
+s912
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThreeViewController.m
+c000000004C46473800000000000032FF
+t1279674168
+s13055
+i"PageThreeViewController.h"
+i"Constants.h"
+i"PageTwoViewController.h"
+i"PageFourViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwelveViewController.h
+c000000004C4362A90000000000000363
+t1279484585
+s867
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwelveViewController.m
+c000000004C464665000000000000331E
+t1279673957
+s13086
+i"PageTwelveViewController.h"
+i"Constants.h"
+i"PageElevenViewController.h"
+i"PageThirteenViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwelveViewController.xib
+c000000004C4798470000000000007FB7
+t1279760455
+s32695
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwoViewController.h
+c000000004C43BEFF000000000000038C
+t1279508223
+s908
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwoViewController.m
+c000000004C43C3FB0000000000003303
+t1279509499
+s13059
+i"PageTwoViewController.h"
+i"Constants.h"
+i"PageOneViewController.h"
+i"PageThreeViewController.h"
+i"LargePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Pampas Grass sm.png
+c000000004C32219E000000000002ACA9
+t1278353822
+s175273
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Pampas Grass.png
+c000000004C3221BB00000000000361DC
+t1278353851
+s221660
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed1.png
+c000000004BAE990900000000000009FE
+t1269733641
+s2558
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed10.png
+c000000004BC931F70000000000000A50
+t1271476727
+s2640
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed11.png
+c000000004BC9320D0000000000000A0C
+t1271476749
+s2572
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed12.png
+c000000004BC9321D0000000000000A50
+t1271476765
+s2640
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed13.png
+c000000004C436D150000000000000A4B
+t1279487253
+s2635
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed2.png
+c000000004BAE93160000000000000A38
+t1269732118
+s2616
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed3.png
+c000000004BAE992A0000000000000A43
+t1269733674
+s2627
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed4.png
+c000000004BAE99450000000000000A20
+t1269733701
+s2592
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed5.png
+c000000004BC9316F0000000000000A40
+t1271476591
+s2624
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed6.png
+c000000004BC931870000000000000A42
+t1271476615
+s2626
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed7.png
+c000000004BC9319A0000000000000A28
+t1271476634
+s2600
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed8.png
+c000000004BC931AB0000000000000A5E
+t1271476651
+s2654
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/PinDRed9.png
+c000000004BC931BD0000000000000A50
+t1271476669
+s2640
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Playbutton.png
+c000000004BE21F070000000000000154
+t1273110279
+s340
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Potter House sm-1.png
+c000000004C322A980000000000014BC7
+t1278356120
+s84935
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Potter House.png
+c000000004C322AB100000000000171C1
+t1278356145
+s94657
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Prefix.pch
+c0000000049FB55000000000000000058
+t1241208064
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/RecipePhotoViewController.h
+c000000004C31EBC8000000000000019E
+t1278340040
+s414
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/RecipePhotoViewController.m
+c000000004C31EEC40000000000000454
+t1278340804
+s1108
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Sherman in Atlanta sm-1.png
+c000000004C322B3B00000000000131BD
+t1278356283
+s78269
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Sherman in Atlanta.png
+c000000004C322ADE0000000000015412
+t1278356190
+s87058
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/TableViewIcon.png
+c000000004B93EAEB00000000000000BA
+t1267985131
+s186
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/TipsViewController.h
+c000000004C3BC42A000000000000010E
+t1278985258
+s270
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/TipsViewController.m
+c000000004C45004000000000000006D9
+t1279590464
+s1753
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/TipsViewController.xib
+c000000004C4500B8000000000000619C
+t1279590584
+s24988
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Tweet's marker header-1.png
+c000000004C323E3B0000000000022C19
+t1278361147
+s142361
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/Tweet's marker.png
+c000000004C323291000000000002E443
+t1278358161
+s189507
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/William Fuller header-1.png
+c000000004C323069000000000001C61A
+t1278357609
+s116250
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/William Fuller.png
+c000000004C3230BE0000000000035C78
+t1278357694
+s220280
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/app_icon.png
+c000000004C48FAF60000000000022262
+t1279851254
+s139874
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable1.png
+c000000004BE373230000000000000B32
+t1273197347
+s2866
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable10.png
+c000000004BDF90570000000000000F1B
+t1272942679
+s3867
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable11.png
+c000000004BDF92940000000000001130
+t1272943252
+s4400
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable12.png
+c000000004BE360F90000000000001139
+t1273192697
+s4409
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable13.png
+c000000004C4325C9000000000000119A
+t1279469001
+s4506
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable2.png
+c000000004BDF8A3D00000000000012D0
+t1272941117
+s4816
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable3.png
+c000000004BDF8AD50000000000001066
+t1272941269
+s4198
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable4.png
+c000000004C433A9F0000000000000F9B
+t1279474335
+s3995
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable5.png
+c000000004C433CFA0000000000001039
+t1279474938
+s4153
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable6.png
+c000000004BDF8B3F0000000000001242
+t1272941375
+s4674
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable7.png
+c000000004BDF8BFE00000000000010EB
+t1272941566
+s4331
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable8.png
+c000000004BDF8C580000000000001023
+t1272941656
+s4131
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/atltable9.png
+c000000004BDF8CF00000000000000FF1
+t1272941808
+s4081
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/bp_btn1.png
+c000000004BB540450000000000000502
+t1270169669
+s1282
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/bp_btn2.png
+c000000004BB540450000000000000501
+t1270169669
+s1281
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app.dSYM
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/AboutViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Cemetery tree-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Roundhouse sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Roundhouse.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bell Tower header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bell Tower.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bobby Jones header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bobby Jones.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Cemetery marker - woman mourning-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Cemetery marker-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Obelisk sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Obelisk.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Section header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Section.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate graves sm-1-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate graves.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Default.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/DirectionsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Grant Mausoleum header-1-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Grant Mausoleum.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Great Locomotive Chase sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Great Locomotive Chase.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/HelpViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/HoursViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Hugh Inman sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Hugh Inman.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Info.plist
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Infobutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/James Nissen header.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/James Nissen.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jasper Smith header.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jasper Smith.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jim Conley sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jim Conley.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in death-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in death.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in life-sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in life.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Lion of the Confederacy header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Lion of the Confederacy.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/LoadingScreen1-1-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/LoadingScreen17c.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Louise Inman header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Louise Inman.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/MapViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell marker header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell marker.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Martha Compton grave lg-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Martha Compton grave sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan, Jim Conley-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Moses Formwalt header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Moses Formwalt.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe Rocks.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Oakland Cemetery Gates-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageEightViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageElevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageFiveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageFourViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageNineViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageSevenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageSixViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageTenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageThirteenViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PageTwelveViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Pampas Grass sm.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Pampas Grass.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed11.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed12.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed13.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PkgInfo
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Playbutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Potter House sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Potter House.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Sherman in Atlanta sm-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Sherman in Atlanta.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/TableViewIcon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/TipsViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Tweet's marker header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Tweet's marker.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/WickedWalksAtlantaOakland
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/William Fuller header-1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/William Fuller.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/app_icon.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable10.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable11.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable12.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable13.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable3.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable4.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable5.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable6.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable7.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable8.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable9.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/bp_btn1.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/bp_btn2.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/PageOneViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/PageThreeViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/PageTwoViewController.nib
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac1.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac10.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac11.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac12.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac13.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac2.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac3.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac4.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac5.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac6.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac7.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac8.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac9.mp3
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/pausebutton.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/volume_up.png
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/DirectionsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/HelpViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/HoursViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/LargePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageElevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageNineViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageThirteenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTwelveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/RecipePhotoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/TipsViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/WickedWalksAtlantaOakland.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/infoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/mapViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeEightViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeFiveViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeFourViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeOneViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeSevenViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeSixViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeThreeViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeTwoViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/tableViewController.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/wwAnnotation.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/wwAnnotationView.o
+t2
+s0
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/InfoPlist.strings
+c0000000049FB5500000000000000015A
+t1241208064
+s346
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/Localizable.strings
+c000000004C16E729000000000000022A
+t1276569385
+s554
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/MainWindow.xib
+c000000004C450195000000000000B3A1
+t1279590805
+s45985
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageOneViewController.xib
+c000000004C4114680000000000007601
+t1279333480
+s30209
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageThreeViewController.xib
+c000000004C4647110000000000008900
+t1279674129
+s35072
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageTwoViewController.xib
+c000000004C3FB89900000000000072F9
+t1279244441
+s29433
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/infoViewController.h
+c000000004C3BC42A00000000000001DA
+t1278985258
+s474
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/infoViewController.m
+c000000004C48FAE600000000000022EB
+t1279851238
+s8939
+i"infoViewController.h"
+i"DirectionsViewController.h"
+i"HelpViewController.h"
+i"AboutViewController.h"
+i"HoursViewController.h"
+i"TipsViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/main.m
+c000000004C3BC42A0000000000000177
+t1278985258
+s375
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/mapViewController.h
+c000000004C3BC42A00000000000002F9
+t1278985258
+s761
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i"wwAnnotation.h"
+i"wwAnnotationView.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/mapViewController.m
+c000000004C43B62B00000000000058C0
+t1279505963
+s22720
+i"mapViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"PageThirteenViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac1.mp3
+c000000004C3E16FA000000000023BBDB
+t1279137530
+s2341851
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac10.mp3
+c000000004C3CC16700000000004760C1
+t1279050087
+s4677825
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac11.mp3
+c000000004C3F6B4E00000000000EA64E
+t1279224654
+s960078
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac12.mp3
+c000000004C434BC9000000000019AD29
+t1279478729
+s1682729
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac13.mp3
+c000000004C434B47000000000017DD7D
+t1279478599
+s1564029
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac2.mp3
+c000000004C3E178500000000001AD992
+t1279137669
+s1759634
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac3.mp3
+c000000004C434A7D00000000001B5F72
+t1279478397
+s1793906
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac4.mp3
+c000000004C4348D600000000001A0553
+t1279477974
+s1705299
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac5.mp3
+c000000004C3F7A9100000000000C5263
+t1279228561
+s807523
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac6.mp3
+c000000004C3A213400000000000D4DD0
+t1278878004
+s871888
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac7.mp3
+c000000004C2A55B30000000000117168
+t1277842867
+s1143144
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac8.mp3
+c000000004C3CC33B00000000000FBF1F
+t1279050555
+s1031967
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/nolac9.mp3
+c000000004C3CC2BE00000000003DF06D
+t1279050430
+s4059245
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/pausebutton.png
+c000000004BE2211900000000000000E0
+t1273110809
+s224
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeEightViewController.h
+c000000004C31F2DD000000000000014E
+t1278341853
+s334
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeEightViewController.m
+c000000004C320210000000000000081B
+t1278345744
+s2075
+i"recipeEightViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFiveViewController.h
+c000000004C31F2E0000000000000014C
+t1278341856
+s332
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFiveViewController.m
+c000000004C321935000000000000081E
+t1278351669
+s2078
+i"recipeFiveViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFourViewController.h
+c000000004C31F2E0000000000000014C
+t1278341856
+s332
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFourViewController.m
+c000000004C31FBAA0000000000000817
+t1278344106
+s2071
+i"recipeFourViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeOneViewController.h
+c000000004C31DC710000000000000149
+t1278336113
+s329
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeOneViewController.m
+c000000004C31F1140000000000000813
+t1278341396
+s2067
+i"recipeOneViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSevenViewController.h
+c000000004C31F2E0000000000000014E
+t1278341856
+s334
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSevenViewController.m
+c000000004C32010B0000000000000820
+t1278345483
+s2080
+i"recipeSevenViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSixViewController.h
+c000000004C31F2E0000000000000014A
+t1278341856
+s330
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSixViewController.m
+c000000004C3202180000000000000812
+t1278345752
+s2066
+i"recipeSixViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeThreeViewController.h
+c000000004C31F2E0000000000000014E
+t1278341856
+s334
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeThreeViewController.m
+c000000004C31F80B000000000000081F
+t1278343179
+s2079
+i"recipeThreeViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeTwoViewController.h
+c000000004C31F2E0000000000000014A
+t1278341856
+s330
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeTwoViewController.m
+c000000004C31F5DD0000000000000814
+t1278342621
+s2068
+i"recipeTwoViewController.h"
+i"RecipePhotoViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/tableViewController.h
+c000000004C3BC42A00000000000001DD
+t1278985258
+s477
+i<UIKit/UIKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/tableViewController.m
+c000000004C47AD0B0000000000002AB2
+t1279765771
+s10930
+i"tableViewController.h"
+i"PageOneViewController.h"
+i"PageTwoViewController.h"
+i"PageThreeViewController.h"
+i"PageFourViewController.h"
+i"PageFiveViewController.h"
+i"PageSixViewController.h"
+i"PageSevenViewController.h"
+i"PageEightViewController.h"
+i"PageNineViewController.h"
+i"PageTenViewController.h"
+i"PageElevenViewController.h"
+i"PageTwelveViewController.h"
+i"PageThirteenViewController.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/volume_up.png
+c0000000049B6E5FE000000000000049C
+t1236723198
+s1180
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotation.h
+c000000004C4353720000000000000372
+t1279480690
+s882
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotation.m
+c000000004C4379620000000000000290
+t1279490402
+s656
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotationView.h
+c000000004C3BC42A0000000000000173
+t1278985258
+s371
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i"wwAnnotation.h"
+
+N/Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotationView.m
+c000000004C4371CC0000000000001949
+t1279488460
+s6473
+i"wwAnnotationView.h"
+
+N/var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-evwqdfjqlvakejbutpfeikyzqrzd/Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C3BD5FE0000000000000401
+t1278989822
+s1025
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/AboutViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/AboutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/AppDelegate.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/DirectionsViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/DirectionsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/HelpViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/HoursViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/HoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/LargePhotoViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/LargePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageEightViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageEightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageElevenViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageElevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageFiveViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageFourViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageNineViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageNineViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageOneViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageSevenViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageSixViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTenViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageThirteenViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThirteenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageThreeViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTwelveViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwelveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/PageTwoViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/RecipePhotoViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/RecipePhotoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/TipsViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/TipsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/infoViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/infoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/main.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/mapViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/mapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeEightViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeEightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeFiveViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFiveViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeFourViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeFourViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeOneViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeOneViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeSevenViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSevenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeSixViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeSixViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeThreeViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeThreeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/recipeTwoViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/recipeTwoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/tableViewController.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/tableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/wwAnnotation.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WickedWalksAtlantaOakland.build/Release-iphonesimulator/WickedWalksAtlantaOakland.build/Objects-normal/i386/wwAnnotationView.o /Users/Diane/Desktop/WickedWalksAtlantaOakland/wwAnnotationView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/AboutViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/DirectionsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/HelpViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/HoursViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageEightViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageElevenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFiveViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageFourViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageNineViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSevenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageSixViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageThirteenViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/PageTwelveViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/TipsViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageOneViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageThreeViewController.xib
+r0
+
+CCompileXIB /Users/Diane/Desktop/WickedWalksAtlantaOakland/en.lproj/PageTwoViewController.xib
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Cemetery tree-1.png" "Atlanta Cemetery tree-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Roundhouse sm-1.png" "Atlanta Roundhouse sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Atlanta Roundhouse.png" "Atlanta Roundhouse.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bell Tower header-1.png" "Bell Tower header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bell Tower.png" "Bell Tower.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bobby Jones header-1.png" "Bobby Jones header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Bobby Jones.png" "Bobby Jones.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Cemetery marker - woman mourning-1.png" "Cemetery marker - woman mourning-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Cemetery marker-1.png" "Cemetery marker-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Obelisk sm-1.png" "Confederate Obelisk sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Obelisk.png" "Confederate Obelisk.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Section header-1.png" "Confederate Section header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate Section.png" "Confederate Section.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate graves sm-1-1.png" "Confederate graves sm-1-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Confederate graves.png" "Confederate graves.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Grant Mausoleum header-1-1.png" "Grant Mausoleum header-1-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Grant Mausoleum.png" "Grant Mausoleum.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Great Locomotive Chase sm-1.png" "Great Locomotive Chase sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Great Locomotive Chase.png" "Great Locomotive Chase.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Hugh Inman sm-1.png" "Hugh Inman sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Hugh Inman.png" "Hugh Inman.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/James Nissen header.png" "James Nissen header.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/James Nissen.png" "James Nissen.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jasper Smith header.png" "Jasper Smith header.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jasper Smith.png" "Jasper Smith.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jim Conley sm-1.png" "Jim Conley sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Jim Conley.png" "Jim Conley.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in death-sm.png" "Leo Frank in death-sm.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in death.png" "Leo Frank in death.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in life-sm.png" "Leo Frank in life-sm.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank in life.png" "Leo Frank in life.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Leo Frank-1.png" "Leo Frank-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Lion of the Confederacy header-1.png" "Lion of the Confederacy header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Lion of the Confederacy.png" "Lion of the Confederacy.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Louise Inman header-1.png" "Louise Inman header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Louise Inman.png" "Louise Inman.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell marker header-1.png" "Margaret Mitchell marker header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell marker.png" "Margaret Mitchell marker.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell sm-1.png" "Margaret Mitchell sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Margaret Mitchell.png" "Margaret Mitchell.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Martha Compton grave lg-1.png" "Martha Compton grave lg-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Martha Compton grave sm-1.png" "Martha Compton grave sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan sm-1.png" "Mary Phagan sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan, Jim Conley-1.png" "Mary Phagan, Jim Conley-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Mary Phagan.png" "Mary Phagan.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Moses Formwalt header-1.png" "Moses Formwalt header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Moses Formwalt.png" "Moses Formwalt.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe Rocks.png" "Niobe Rocks.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe header-1.png" "Niobe header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Oakland Cemetery Gates-1.png" "Oakland Cemetery Gates-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Pampas Grass sm.png" "Pampas Grass sm.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Pampas Grass.png" "Pampas Grass.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Potter House sm-1.png" "Potter House sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Potter House.png" "Potter House.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Sherman in Atlanta sm-1.png" "Sherman in Atlanta sm-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Sherman in Atlanta.png" "Sherman in Atlanta.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Tweet's marker header-1.png" "Tweet's marker header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Tweet's marker.png" "Tweet's marker.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/William Fuller header-1.png" "William Fuller header-1.png"
+r0
+
+CCpResource "build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/William Fuller.png" "William Fuller.png"
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Default.png Default.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Icon.png Icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Infobutton.png Infobutton.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/LoadingScreen1-1-1.png LoadingScreen1-1-1.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/LoadingScreen17c.png LoadingScreen17c.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/MapViewIcon.png MapViewIcon.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Niobe.png Niobe.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed1.png PinDRed1.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed10.png PinDRed10.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed11.png PinDRed11.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed12.png PinDRed12.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed13.png PinDRed13.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed2.png PinDRed2.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed3.png PinDRed3.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed4.png PinDRed4.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed5.png PinDRed5.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed6.png PinDRed6.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed7.png PinDRed7.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed8.png PinDRed8.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/PinDRed9.png PinDRed9.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Playbutton.png Playbutton.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/TableViewIcon.png TableViewIcon.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/app_icon.png app_icon.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable1.png atltable1.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable10.png atltable10.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable11.png atltable11.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable12.png atltable12.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable13.png atltable13.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable2.png atltable2.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable3.png atltable3.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable4.png atltable4.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable5.png atltable5.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable6.png atltable6.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable7.png atltable7.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable8.png atltable8.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/atltable9.png atltable9.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/bp_btn1.png bp_btn1.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/bp_btn2.png bp_btn2.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac1.mp3 nolac1.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac10.mp3 nolac10.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac11.mp3 nolac11.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac12.mp3 nolac12.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac13.mp3 nolac13.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac2.mp3 nolac2.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac3.mp3 nolac3.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac4.mp3 nolac4.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac5.mp3 nolac5.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac6.mp3 nolac6.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac7.mp3 nolac7.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac8.mp3 nolac8.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/nolac9.mp3 nolac9.mp3
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/pausebutton.png pausebutton.png
+r0
+
+CCpResource build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/volume_up.png volume_up.png
+r0
+
+CGenerateDSYMFile /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app.dSYM /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/WickedWalksAtlantaOakland
+r0
+
+CLd /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/WickedWalksAtlantaOakland normal i386
+r0
+
+CProcessInfoPlistFile /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/w+/w+JpE+DIFaKVfCxUr0tvqU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-evwqdfjqlvakejbutpfeikyzqrzd/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/Diane/Desktop/WickedWalksAtlantaOakland/build/Release-iphonesimulator/WickedWalksAtlantaOakland.app
+r0
+
