@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageElevenViewController">
@@ -16,39 +20,39 @@
             <rect key="frame" x="0.0" y="0.0" width="320" height="3550"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="20">
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="20">
                     <rect key="frame" x="0.0" y="0.0" width="320" height="3550"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <subviews>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  11. Governor John Marshall Slaton" lineBreakMode="tailTruncation" minimumFontSize="10" id="4">
                             <rect key="frame" x="0.0" y="200" width="320" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
-                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="5">
                             <rect key="frame" x="10" y="243" width="300" height="384"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">On April 26, 1913, Mary Phagan entered the National Pencil Company for the last time. She was a 13 year-old employee, picking up her paycheck and hoping to attend a Confederate Memorial Day celebration that evening. Instead, her filthy, beaten, strangled, raped body was found the next morning by the night watchman. 
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">On April 26, 1913, Mary Phagan entered the National Pencil Company for the last time. She was a 13 year-old employee, picking up her paycheck and hoping to attend a Confederate Memorial Day celebration that evening. Instead, her filthy, beaten, strangled, raped body was found the next morning by the night watchman. 
 
-The last man to see her alive, factory owner Leo Frank, was accused of her murder. He was tried and convicted in a highly-sensationalized trial. Frank was Jewish, which many felt led to his conviction despite conflicting testimony and only circumstantial evidence against him. A group calling themselves the Knights of Mary Phagan promised to avenge her death. </mutableString>
+The last man to see her alive, factory owner Leo Frank, was accused of her murder. He was tried and convicted in a highly-sensationalized trial. Frank was Jewish, which many felt led to his conviction despite conflicting testimony and only circumstantial evidence against him. A group calling themselves the Knights of Mary Phagan promised to avenge her death. </string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="7">
                             <rect key="frame" x="0.0" y="0.0" width="320" height="200"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Grant Mausoleum" image="Grant Mausoleum.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="23"/>
@@ -59,11 +63,11 @@ The last man to see her alive, factory owner Leo Frank, was accused of her murde
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Leo Frank in life" image="Leo Frank in life.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="25"/>
@@ -73,74 +77,74 @@ The last man to see her alive, factory owner Leo Frank, was accused of her murde
                             <rect key="frame" x="80" y="860" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="N4A-ek-cLM">
                             <rect key="frame" x="10" y="883" width="300" height="280"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">Frank was sentenced to hang. His hanging was delayed several times, and in 1915 Georgia Governor John Marshall Slaton commuted his sentence to life imprisonment.
 
 Slaton had studied the case carefully and agonized over his decision. He knew in his heart that the evidence did not support the death penalty for Frank. However, he was under intense pressure from politicians and citizens to hang him anyway. Slaton issued the following statement:</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="iKL-4h-Dh6">
                             <rect key="frame" x="10" y="1156" width="300" height="208"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">"I can endure misconstruction, abuse and condemnation, but I cannot stand the constant companionship of an accusing conscience which would remind me that I, as governor of Georgia, failed to do what I thought to be right . . . It means that I must live in obscurity the rest of my days, but I would rather be plowing in a field than to feel that I had that blood on my hands."</string>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="oUD-dA-OH4">
                             <rect key="frame" x="10" y="1984" width="300" height="530"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Frank’s final request was that his wedding ring be returned to his wife. “I think more of my wife and my mother than I do of my own life” were his last words. When Frank’s body was cut down from the noose, heated onlookers kicked at and spat on the corpse.
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Frank’s final request was that his wedding ring be returned to his wife. “I think more of my wife and my mother than I do of my own life” were his last words. When Frank’s body was cut down from the noose, heated onlookers kicked at and spat on the corpse.
 
 On Thanksgiving of 1915, a man named William Joseph Simmons invited several of the men responsible for Frank’s lynching to a meeting. They read aloud from the bible and burned a cross at Stone Mountain. Tom Watson, a prominent Georgia politician, then declared the re-formation of a defunct society: the Knights of the Ku Klux Klan.
 
 Almost 70 years after the murder, Alonzo Mann, an office boy from the National Pencil Company, came forward with new testimony about the Frank trial. 
 
-On his deathbed in 1982, Mann revealed seeing the factory janitor, Jim Conley, on that fateful day. Mann personally witnessed Conley dragging the limp body of Mary Phagan to the basement. </mutableString>
+On his deathbed in 1982, Mann revealed seeing the factory janitor, Jim Conley, on that fateful day. Mann personally witnessed Conley dragging the limp body of Mary Phagan to the basement. </string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" text="(Time Magazine, Jan. 24, 1955)" textAlignment="right" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="GCt-eb-F32">
                             <rect key="frame" x="20" y="1345" width="280" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                             <size key="shadowOffset" width="0.0" height="0.0"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="kGc-Ox-aJf">
                             <rect key="frame" x="10" y="1372" width="300" height="376"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">Slaton’s courageous actions were unpopular, and resulted in multiple attempts on his life, attacks on his family, and vandalism to his home. As soon as his term was up, Slaton moved to Florida and never again pursued public office. In 1955 Slaton was buried here in Grant Mausoleum, his wife’s family’s tomb, with honors. 
 
 Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked the prison in Milledgeville, Georgia. They captured Leo Frank to lynch him. The group of 25 men – the Knights of Mary Phagan – took Frank to Marietta. They picked a sturdy oak, bought a new rope and hanged him there, across the street from Mary Phagan’s house.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="1UT-ZD-1gZ">
                             <rect key="frame" x="65" y="1756" width="190" height="200"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Leo Frank in death" image="Leo Frank in death.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="bHg-2u-Dqb"/>
@@ -150,7 +154,7 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                             <rect key="frame" x="65" y="1955" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="dJz-12-TJq">
@@ -158,11 +162,11 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jim Conley" image="Jim Conley.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="KRq-nX-hk8"/>
@@ -172,23 +176,23 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                             <rect key="frame" x="80" y="2753" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="sVi-bl-pgD">
                             <rect key="frame" x="10" y="2782" width="300" height="126"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">When Conley realized the boy saw him, he threatened to kill the young boy and his whole family if he ever said a word.  Mann, who was only 12 at the time, stayed quiet. Leo Frank was indeed innocent, yet he paid the ultimate price.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Mary Phagan" lineBreakMode="tailTruncation" minimumFontSize="10" id="s4R-dh-AQe">
                             <rect key="frame" x="63" y="3182" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="ZvA-hm-DgS">
@@ -196,11 +200,11 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Mary Phagan" image="Mary Phagan.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="0ts-kG-3Z2"/>
@@ -209,10 +213,10 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="17">
                             <rect key="frame" x="20" y="3218" width="280" height="190"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">Directions: Facing the Grant Mausoleum, head right on the path until it ends at the road. Turn left on the road. Stay straight at the crossroads. At the sharp bend, cross over Freeman brick path and turn right on the next (unmarked) brick path. The Fuller monument is on the second path on the left.</string>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                             <size key="shadowOffset" width="0.0" height="0.0"/>
                         </label>
@@ -222,7 +226,7 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
         </view>
@@ -234,9 +238,4 @@ Two months after Slaton reduced Frank’s sentence, an angry, armed mob attacked
         <image name="Leo Frank in life.png" width="290" height="395"/>
         <image name="Mary Phagan.png" width="340" height="439"/>
     </resources>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

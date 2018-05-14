@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageFifteenViewController">
@@ -20,7 +24,7 @@
                     <rect key="frame" x="0.0" y="0.0" width="320" height="1900"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <subviews>
-                        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="Y4M-Kb-JKp">
+                        <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="Y4M-Kb-JKp">
                             <rect key="frame" x="0.0" y="0.0" width="320" height="1900"/>
                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             <subviews>
@@ -29,11 +33,11 @@
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                                     <state key="normal" title="Niobe Rocks" image="Niobe Rocks.png">
-                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <state key="highlighted">
-                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <connections>
                                         <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="4Tf-Vf-uME"/>
@@ -44,11 +48,11 @@
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                                     <state key="normal" title="Niobe by David" image="Niobe by David.png">
-                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <state key="highlighted">
-                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <connections>
                                         <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="925-R3-hlE"/>
@@ -58,7 +62,7 @@
                                     <rect key="frame" x="10" y="1585" width="260" height="21"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <nil key="highlightedColor"/>
                                 </label>
                                 <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Khr-fF-HRU">
@@ -66,11 +70,11 @@
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                                     <state key="normal" title="Niobe" image="Niobe.png">
-                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <state key="highlighted">
-                                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     </state>
                                     <connections>
                                         <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="huJ-Ji-Hyw"/>
@@ -79,16 +83,16 @@
                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  15. Niobe" lineBreakMode="tailTruncation" minimumFontSize="10" id="xYm-Jw-YvR">
                                     <rect key="frame" x="0.0" y="213" width="320" height="29"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                                    <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                                     <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
-                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <nil key="highlightedColor"/>
                                 </label>
                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="jp5-2t-Fdd">
                                     <rect key="frame" x="10" y="243" width="300" height="800"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                    <mutableString key="text">This beautiful, haunting, statue of Niobe captures a mother’s sorrow. 
+                                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <string key="text">This beautiful, haunting, statue of Niobe captures a mother’s sorrow. 
 
 Niobe is a character from Greek mythology. She is known for her hubris: the Greek word for arrogance, or excessive pride. Queen Niobe boasted about her 14 amazing children to the goddess Leto, noting that Leto had only a set of twins. Leto was angered and punished Niobe – by murdering all of her children. 
 
@@ -99,26 +103,26 @@ Niobe was overcome with grief. She left her children and husband unburied for ni
 The stone edifice is still there today, and still ‘weeps’ Niobe’s tears. The rock has endured the elements – including several devastating earthquakes – for more than 3000 years. 
 
 You can feel the sorrow and pain in this marble statue, which represents the universal grief of a mother for her child.
-</mutableString>
+</string>
                                     <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                                    <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                                    <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                                    <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                                 </label>
                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Niobe Rocks" lineBreakMode="tailTruncation" minimumFontSize="10" id="ile-F7-jc8">
                                     <rect key="frame" x="27" y="1306" width="260" height="21"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <nil key="highlightedColor"/>
                                 </label>
                                 <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="ClM-qw-XJr">
                                     <rect key="frame" x="24" y="1637" width="267" height="90"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                                     <string key="text">Directions: Remnants of the tornado damage are visible throughout the cemetery.
 </string>
                                     <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                                    <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <nil key="highlightedColor"/>
                                     <size key="shadowOffset" width="0.0" height="0.0"/>
                                 </label>
@@ -128,10 +132,10 @@ You can feel the sorrow and pain in this marble statue, which represents the uni
                             </connections>
                         </scrollView>
                     </subviews>
-                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                 </view>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <point key="canvasLocation" x="140" y="152"/>
@@ -142,9 +146,4 @@ You can feel the sorrow and pain in this marble statue, which represents the uni
         <image name="Niobe by David.png" width="350" height="273"/>
         <image name="Niobe.png" width="640" height="428"/>
     </resources>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

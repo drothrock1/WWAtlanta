@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageFourViewController">
@@ -16,39 +20,39 @@
             <rect key="frame" x="0.0" y="0.0" width="320" height="2860"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="4">
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="4">
                     <rect key="frame" x="0.0" y="0.0" width="320" height="2860"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <subviews>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  4. Jewish Section" lineBreakMode="tailTruncation" minimumFontSize="10" id="5">
                             <rect key="frame" x="0.0" y="213" width="320" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
-                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="6">
                             <rect key="frame" x="10" y="252" width="300" height="336"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">The Jewish area is easily recognizable by the symbols on the headstones -- many of the graves have Stars of David or draped urns. The Star of David signifies a shield, or divine protection, and became a prominent Jewish symbol in the early 1900’s. An urn draped in a Jewish prayer shawl often means the person was related to a priest. 
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">The Jewish area is easily recognizable by the symbols on the headstones -- many of the graves have Stars of David or draped urns. The Star of David signifies a shield, or divine protection, and became a prominent Jewish symbol in the early 1900’s. An urn draped in a Jewish prayer shawl often means the person was related to a priest. 
 
-Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popular belief was that in death - as in life - segregation was acceptable. People of Jewish heritage were separated from white Christians, as were people of African-American heritage.</mutableString>
+Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popular belief was that in death - as in life - segregation was acceptable. People of Jewish heritage were separated from white Christians, as were people of African-American heritage.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="8">
                             <rect key="frame" x="0.0" y="0.0" width="320" height="213"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jewish Section" image="Jewish Section.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="11"/>
@@ -59,11 +63,11 @@ Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popula
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jacob's Pharmacy" image="Jacob's Pharmacy.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="12"/>
@@ -73,7 +77,7 @@ Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popula
                             <rect key="frame" x="10" y="1606" width="260" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="EpY-c5-qXg">
@@ -81,11 +85,11 @@ Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popula
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jacobs Mausoleum" image="Jacobs Mausoleum.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="o5h-tP-dII"/>
@@ -95,42 +99,42 @@ Back in 1878, when the Hebrew Benevolent Congregation acquired this land, popula
                             <rect key="frame" x="60" y="902" width="260" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="N7m-QR-Ysb">
                             <rect key="frame" x="10" y="932" width="300" height="420"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Some of the notable graves in this section include: 
-Jacobs Mausoleum - Dr. Joseph Jacobs owned the pharmacy downtown where Coca-Cola was first served. Coca-cola was invented by John Pemberton, a colonel in the civil war who was injured and became addicted to morphine. He wanted a substitute and created a nerve tonic, French Wine Coca, in 1885. His concoction was a secret blend of coca leaf extract, kola nut, and alcohol. With prohibition in Atlanta in 1886, he removed the alcohol. Pemberton claimed Coca-Cola cured many ailments, including ‘morphine addiction, indigestion, nerve disorders, headaches, and impotence’ [Mark Pendergrast, 2000, For God, Country and Coca-Cola.]. Jacob’s Pharmacy began selling the beverage for a nickel a glass on May 8, 1886.</mutableString>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Some of the notable graves in this section include: 
+Jacobs Mausoleum - Dr. Joseph Jacobs owned the pharmacy downtown where Coca-Cola was first served. Coca-cola was invented by John Pemberton, a colonel in the civil war who was injured and became addicted to morphine. He wanted a substitute and created a nerve tonic, French Wine Coca, in 1885. His concoction was a secret blend of coca leaf extract, kola nut, and alcohol. With prohibition in Atlanta in 1886, he removed the alcohol. Pemberton claimed Coca-Cola cured many ailments, including ‘morphine addiction, indigestion, nerve disorders, headaches, and impotence’ [Mark Pendergrast, 2000, For God, Country and Coca-Cola.]. Jacob’s Pharmacy began selling the beverage for a nickel a glass on May 8, 1886.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="gvX-OC-CAa">
                             <rect key="frame" x="10" y="1635" width="300" height="480"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Rich Family Plot - Morris Rich founded Rich’s department stores (now Macy’s) in 1867. The family had immigrated from Hungary and two of his brothers, Emanuel and Daniel, helped manage the stores as the business grew. The company was known for its charitable actions: cashing schoolteachers scrip payments during a financial crisis, accepting returns of worn nylon pantyhose during WWII shortages, and a personal shopper service. Shoppers partaking in the personal service include a boy offering to trade his little sister for a toy! 
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Rich Family Plot - Morris Rich founded Rich’s department stores (now Macy’s) in 1867. The family had immigrated from Hungary and two of his brothers, Emanuel and Daniel, helped manage the stores as the business grew. The company was known for its charitable actions: cashing schoolteachers scrip payments during a financial crisis, accepting returns of worn nylon pantyhose during WWII shortages, and a personal shopper service. Shoppers partaking in the personal service include a boy offering to trade his little sister for a toy! 
 
 Elsas Mausoleum - Jacob Elsas is interred here. The successful businessman and German immigrant founded Fulton Bag and Cotton Mills (now lofts in Cabbagetown). 
 
-Eichberg Family Crypt - German immigrant Alfred Eichberg, a prominent architect, is buried here. This is the only copyrighted piece in the cemetery.</mutableString>
+Eichberg Family Crypt - German immigrant Alfred Eichberg, a prominent architect, is buried here. This is the only copyrighted piece in the cemetery.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="SQv-N6-ObB">
                             <rect key="frame" x="30" y="2132" width="260" height="355"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Morris Rich" image="Morris Rich.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="4Tv-oP-g0r"/>
@@ -140,16 +144,16 @@ Eichberg Family Crypt - German immigrant Alfred Eichberg, a prominent architect,
                             <rect key="frame" x="30" y="2489" width="260" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="7">
                             <rect key="frame" x="20" y="2534" width="280" height="110"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">Directions: Backtrack to the main road, then turn right. Turn right at the next paved road. The Inman Family plot will be on the left.</string>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                             <size key="shadowOffset" width="0.0" height="0.0"/>
                         </label>
@@ -159,7 +163,7 @@ Eichberg Family Crypt - German immigrant Alfred Eichberg, a prominent architect,
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
         </view>
@@ -170,9 +174,4 @@ Eichberg Family Crypt - German immigrant Alfred Eichberg, a prominent architect,
         <image name="Jewish Section.png" width="640" height="426"/>
         <image name="Morris Rich.png" width="280" height="382"/>
     </resources>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

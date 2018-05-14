@@ -29,7 +29,7 @@
     if ([[ver objectAtIndex:0] intValue] >= 7) {
         self.navigationController.navigationBar.barTintColor = [UIColor blackColor];
         self.navigationController.navigationBar.translucent = NO;
-        self.navigationController.navigationBar.titleTextAttributes = @{UITextAttributeTextColor : [UIColor whiteColor]};
+        self.navigationController.navigationBar.titleTextAttributes = @{NSForegroundColorAttributeName : [UIColor whiteColor]};
         self.navigationController.navigationBar.tintColor = [UIColor whiteColor];
     }
     
@@ -46,11 +46,11 @@
 	NSDictionary *row2 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Start Tour - Map View", @"Name", @"801 Chartres Street",@"Address",@"InfoMap",@"Image",  nil];	
 	NSDictionary *row3 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Start Tour - List View", @"Name", @"622 Pirate's Alley",@"Address",@"InfoList",@"Image",  nil];	
 	NSDictionary *row4 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Directions", @"Name", @"727 St Peter Street",@"Address",@"InfoDirections",@"Image",  nil];	
-	NSDictionary *row5 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Hours", @"Name", @"718 St. Peter Street",@"Address",@"InfoHelp",@"Image",  nil];	
-	NSDictionary *row6 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Help", @"Name", @"613 Royal Street",@"Address",@"InfoAbout",@"Image",  nil];	
-	NSDictionary *row7 = [[NSDictionary alloc] initWithObjectsAndKeys:@"About", @"Name", @"240 Bourbon Street",@"Address",@"InfoHours",@"Image",  nil];	
+	//NSDictionary *row5 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Hours", @"Name", @"718 St. Peter Street",@"Address",@"InfoHelp",@"Image",  nil];
+	NSDictionary *row5 = [[NSDictionary alloc] initWithObjectsAndKeys:@"Help", @"Name", @"613 Royal Street",@"Address",@"InfoAbout",@"Image",  nil];
+	NSDictionary *row6 = [[NSDictionary alloc] initWithObjectsAndKeys:@"About", @"Name", @"240 Bourbon Street",@"Address",@"InfoHours",@"Image",  nil];
 	
-	NSArray *array = [[NSArray alloc] initWithObjects:row1, row2, row3, row4, row5, row6, row7, nil];
+	NSArray *array = [[NSArray alloc] initWithObjects:row1, row2, row3, row4, row5, row6, nil];
 	self.listData = array;
 	
 	[row1 release];
@@ -59,7 +59,7 @@
 	[row4 release];
 	[row5 release];
 	[row6 release];
-	[row7 release];
+	//[row7 release];
 	[array release];
      
 
@@ -236,22 +236,22 @@
 		childController.hidesBottomBarWhenPushed = YES;
 		[self.navigationController pushViewController:childController animated:YES];	
 	}
+	//if (selectedSite == 5){
+	//	NSLog(@"nrbuttonpressed if = 5 executed");
+	//	NSString *viewControllerName = @"HoursViewController";
+	//	childController = (TipsViewController *) [[HoursViewController alloc] initWithNibName:viewControllerName bundle:nil];
+	//	childController.hidesBottomBarWhenPushed = YES;
+	//	[self.navigationController pushViewController:childController animated:YES];
+	//}
 	if (selectedSite == 5){
 		NSLog(@"nrbuttonpressed if = 5 executed");
-		NSString *viewControllerName = @"HoursViewController";
-		childController = (TipsViewController *) [[HoursViewController alloc] initWithNibName:viewControllerName bundle:nil];
-		childController.hidesBottomBarWhenPushed = YES;
-		[self.navigationController pushViewController:childController animated:YES];	
-	}
-	if (selectedSite == 6){
-		NSLog(@"nrbuttonpressed if = 6 executed");
 		NSString *viewControllerName = @"HelpViewController";
 		childController = (TipsViewController *) [[HelpViewController alloc] initWithNibName:viewControllerName bundle:nil];
 		childController.hidesBottomBarWhenPushed = YES;
 		[self.navigationController pushViewController:childController animated:YES];	
 	}
-	if (selectedSite == 7){
-		NSLog(@"nrbuttonpressed if = 7 executed");
+	if (selectedSite == 6){
+		NSLog(@"nrbuttonpressed if = 6 executed");
 		NSString *viewControllerName = @"AboutViewController";
 		childController = (TipsViewController *) [[AboutViewController alloc] initWithNibName:viewControllerName bundle:nil];
 		childController.hidesBottomBarWhenPushed = YES;

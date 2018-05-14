@@ -11,6 +11,7 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		41568F202088DA01005639B2 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41568F1F2088DA01005639B2 /* CoreLocation.framework */; };
 		531F16A70D6367A3003D33FB /* PageTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16970D6367A3003D33FB /* PageTwoViewController.m */; };
 		531F16A80D6367A3003D33FB /* PageOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16980D6367A3003D33FB /* PageOneViewController.m */; };
 		531F16A90D6367A3003D33FB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 531F16990D6367A3003D33FB /* AppDelegate.m */; };
@@ -140,8 +141,8 @@
 		C43AAAA91E05EC6400DB4052 /* atltable15.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAA81E05EC6400DB4052 /* atltable15.png */; };
 		C43AAAAB1E05EC6C00DB4052 /* atltable16.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAAA1E05EC6C00DB4052 /* atltable16.png */; };
 		C43AAAAD1E07274100DB4052 /* Cemetery trees uprooted.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAAC1E07274100DB4052 /* Cemetery trees uprooted.png */; };
-		C43AAAAF1E072F1500DB4052 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAAE1E072F1500DB4052 /* InfoScreen.png */; };
-		C43AAAB11E072F2C00DB4052 /* InfoScreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAB01E072F2C00DB4052 /* InfoScreen@2x.png */; };
+		C43AAAAF1E072F1500DB4052 /* InfoScreen480.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAAE1E072F1500DB4052 /* InfoScreen480.png */; };
+		C43AAAB11E072F2C00DB4052 /* InfoScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAB01E072F2C00DB4052 /* InfoScreen.png */; };
 		C43AAAB31E072F3900DB4052 /* InfoScreen-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAB21E072F3900DB4052 /* InfoScreen-568h@2x.png */; };
 		C43AAAB51E07301900DB4052 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAB41E07301900DB4052 /* Default-568h@2x.png */; };
 		C43AAAB71E07302600DB4052 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C43AAAB61E07302600DB4052 /* Default.png */; };
@@ -206,6 +207,7 @@
 		1DC4B2650D05D9C8003A8154 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		41568F1F2088DA01005639B2 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		531F16910D63677B003D33FB /* Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		531F16970D6367A3003D33FB /* PageTwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageTwoViewController.m; sourceTree = "<group>"; };
 		531F16980D6367A3003D33FB /* PageOneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageOneViewController.m; sourceTree = "<group>"; };
@@ -357,8 +359,8 @@
 		C43AAAA81E05EC6400DB4052 /* atltable15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atltable15.png; sourceTree = "<group>"; };
 		C43AAAAA1E05EC6C00DB4052 /* atltable16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atltable16.png; sourceTree = "<group>"; };
 		C43AAAAC1E07274100DB4052 /* Cemetery trees uprooted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cemetery trees uprooted.png"; sourceTree = "<group>"; };
-		C43AAAAE1E072F1500DB4052 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
-		C43AAAB01E072F2C00DB4052 /* InfoScreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen@2x.png"; sourceTree = "<group>"; };
+		C43AAAAE1E072F1500DB4052 /* InfoScreen480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen480.png; sourceTree = "<group>"; };
+		C43AAAB01E072F2C00DB4052 /* InfoScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InfoScreen.png; sourceTree = "<group>"; };
 		C43AAAB21E072F3900DB4052 /* InfoScreen-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfoScreen-568h@2x.png"; sourceTree = "<group>"; };
 		C43AAAB41E07301900DB4052 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		C43AAAB61E07302600DB4052 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -433,6 +435,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41568F202088DA01005639B2 /* CoreLocation.framework in Frameworks */,
 				1D60589E0D05DD5A006BFB54 /* CoreFoundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				1D3623EC0D0F72F000981E51 /* CoreGraphics.framework in Frameworks */,
@@ -487,8 +490,8 @@
 				C43AAAB61E07302600DB4052 /* Default.png */,
 				C43AAAB81E07303500DB4052 /* Default@2x.png */,
 				C43AAAB41E07301900DB4052 /* Default-568h@2x.png */,
-				C43AAAAE1E072F1500DB4052 /* InfoScreen.png */,
-				C43AAAB01E072F2C00DB4052 /* InfoScreen@2x.png */,
+				C43AAAAE1E072F1500DB4052 /* InfoScreen480.png */,
+				C43AAAB01E072F2C00DB4052 /* InfoScreen.png */,
 				C43AAAB21E072F3900DB4052 /* InfoScreen-568h@2x.png */,
 				C42BAFBF11BF369300D9F604 /* InfoXIB */,
 				C42BAFBE11BF366B00D9F604 /* DetailXIB */,
@@ -508,6 +511,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				41568F1F2088DA01005639B2 /* CoreLocation.framework */,
 				C485162C11AE1A7C00549246 /* MapKit.framework */,
 				C485162211AE1A6B00549246 /* AVFoundation.framework */,
 				1D3623EB0D0F72F000981E51 /* CoreGraphics.framework */,
@@ -839,10 +843,15 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0930;
 				TargetAttributes = {
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = 5G4385EGEP;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -991,7 +1000,7 @@
 				C40052E21E47C7420067ABA2 /* nolac13.mp3 in Resources */,
 				C43AAAA71E05EC5C00DB4052 /* atltable14.png in Resources */,
 				C48C843D1E53977D003A9C12 /* maynardjacksongrave348px.png in Resources */,
-				C43AAAAF1E072F1500DB4052 /* InfoScreen.png in Resources */,
+				C43AAAAF1E072F1500DB4052 /* InfoScreen480.png in Resources */,
 				C43AAA611DFF419800DB4052 /* Grant Mausoleum.png in Resources */,
 				C43AAA391DFDF58700DB4052 /* Pampas Grass.png in Resources */,
 				C43AAA651DFF41BB00DB4052 /* Leo Frank in life.png in Resources */,
@@ -1025,7 +1034,7 @@
 				C43AAA191DF71A3F00DB4052 /* Making Death Mask.png in Resources */,
 				C40052C41E47C6160067ABA2 /* nolac6.mp3 in Resources */,
 				C43AAA6D1DFF428800DB4052 /* Great Locomotive Chase.png in Resources */,
-				C43AAAB11E072F2C00DB4052 /* InfoScreen@2x.png in Resources */,
+				C43AAAB11E072F2C00DB4052 /* InfoScreen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1128,17 +1137,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 5G4385EGEP;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.intownadverture.wickedwalksoaklandcemetery;
 				PRODUCT_NAME = WickedWalksAtlantaOakland;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -1151,15 +1163,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 5G4385EGEP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.intownadverture.wickedwalksoaklandcemetery;
 				PRODUCT_NAME = WickedWalksAtlantaOakland;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
@@ -1171,11 +1186,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = WickedWalksAtlantaOaklandCemetery;
 				PROVISIONING_PROFILE = "";
@@ -1187,12 +1228,37 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
@@ -1202,11 +1268,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ENABLE_BITCODE = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = WickedWalksAtlantaOaklandCemetery;
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
@@ -1219,15 +1310,18 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_WEAK = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 5G4385EGEP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = /Applications;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.intownadverture.wickedwalksoaklandcemetery;
 				PRODUCT_NAME = WickedWalksAtlantaOakland;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";

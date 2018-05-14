@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageOneViewController">
@@ -16,33 +20,33 @@
             <rect key="frame" x="0.0" y="0.0" width="320" height="2250"/>
             <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" bouncesZoom="NO" id="15">
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="15">
                     <rect key="frame" x="0.0" y="0.0" width="320" height="2250"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <subviews>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  1. Jasper Smith" lineBreakMode="tailTruncation" minimumFontSize="10" id="23">
                             <rect key="frame" x="0.0" y="212" width="331" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.056930693070000003" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.056930693070000003" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
-                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="27">
                             <rect key="frame" x="20" y="1625" width="280" height="185"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <string key="text">Directions: Go back to the main road and continue to the 3rd pathway on the right. At the corner is the grave of Martha Compton, whose father, the mayor, named this city Marthasville after her in 1843. In 1845 the name was changed to Atlanta. The grave marker just behind Martha Compton's is James Nissen's.</string>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                             <size key="shadowOffset" width="0.0" height="0.0"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="29">
                             <rect key="frame" x="10" y="254" width="300" height="750"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Our tour starts in the oldest part of the cemetery, the original six acres of the 88-acre plot. As you come in the front gates at the Oakland Street entrance, take the first brick pathway on your right to the mausoleum of Jasper Newton Smith.
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Our tour starts in the oldest part of the cemetery, the original six acres of the 88-acre plot. As you come in the front gates at the Oakland Street entrance, take the first brick pathway on your right to the mausoleum of Jasper Newton Smith.
 
 Smith is known as the ‘head haint’ of the cemetery. Notice his life-size statue is looking at the gates of the cemetery. He planned this pose before his death; he wanted to keep watch over the comings and goings of the cemetery. He is seated in his favorite chair, top hat in hand, scrutinizing visitors.
 
@@ -50,22 +54,22 @@ In life, Smith had been a successful businessman. He made his fortune manufactur
 
 Smith liked to play cards, though he wasn’t particularly good. Out of money one evening, he still wanted to play. So he decided to bet - his watch? His car? No, he bet his daughter.
 
-Unfortunately, Smith lost the hand. Donaldson, the winner, chose Smith’s 3-year-old daughter, Anna. Smith and Donaldson remained good friends through the years. When Anna was 18 and Donaldson was 32 – he took Anna for his bride!</mutableString>
+Unfortunately, Smith lost the hand. Donaldson, the winner, chose Smith’s 3-year-old daughter, Anna. Smith and Donaldson remained good friends through the years. When Anna was 18 and Donaldson was 32 – he took Anna for his bride!</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="32">
                             <rect key="frame" x="0.0" y="0.0" width="320" height="214"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jasper Smith" image="Jasper Smith.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="33"/>
@@ -74,14 +78,14 @@ Unfortunately, Smith lost the hand. Donaldson, the winner, chose Smith’s 3-yea
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="63">
                             <rect key="frame" x="30" y="1017" width="260" height="260"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Jasper up close" image="Jasper up close.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="64"/>
@@ -90,14 +94,14 @@ Unfortunately, Smith lost the hand. Donaldson, the winner, chose Smith’s 3-yea
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="65">
                             <rect key="frame" x="10" y="1825" width="300" height="200"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Martha Compton grave" image="Martha Compton grave.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="66"/>
@@ -107,46 +111,41 @@ Unfortunately, Smith lost the hand. Donaldson, the winner, chose Smith’s 3-yea
                             <rect key="frame" x="30" y="1278" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="Hjj-xZ-X5p">
                             <rect key="frame" x="10" y="1307" width="300" height="310"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Smith had an accident as a child where he was almost strangled by a vine. For the rest of his life he refused to wear anything around his neck. In fact, when the artist creating this sculpture originally included a cravat, Smith refused to pay until the necktie was removed. 
-According to legend, a vine once grew up this statue and wound tightly around its neck. Kudzu grows very quickly – as much as a foot a day in Georgia – and when the groundskeepers noticed the vine, they planned to remove it the next morning. But by the next morning the rogue vine had mysteriously disappeared.</mutableString>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Smith had an accident as a child where he was almost strangled by a vine. For the rest of his life he refused to wear anything around his neck. In fact, when the artist creating this sculpture originally included a cravat, Smith refused to pay until the necktie was removed. 
+According to legend, a vine once grew up this statue and wound tightly around its neck. Kudzu grows very quickly – as much as a foot a day in Georgia – and when the groundskeepers noticed the vine, they planned to remove it the next morning. But by the next morning the rogue vine had mysteriously disappeared.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Martha Compton grave" lineBreakMode="tailTruncation" minimumFontSize="10" id="67">
                             <rect key="frame" x="10" y="2027" width="280" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                     </subviews>
-                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     <connections>
                         <outlet property="delegate" destination="-1" id="16"/>
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
         </view>
     </objects>
     <resources>
-        <image name="Jasper Smith.png" width="320" height="213"/>
-        <image name="Jasper up close.png" width="640" height="640"/>
-        <image name="Martha Compton grave.png" width="320" height="213"/>
+        <image name="Jasper Smith.png" width="640" height="427"/>
+        <image name="Jasper up close.png" width="420" height="420"/>
+        <image name="Martha Compton grave.png" width="320" height="214"/>
     </resources>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

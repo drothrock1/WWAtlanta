@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TipsViewController">
@@ -23,16 +27,30 @@
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text=" Oakland Cemetery Tour" lineBreakMode="tailTruncation" minimumFontSize="10" id="8">
                             <rect key="frame" x="0.0" y="0.0" width="320" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="17"/>
-                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
-                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="10">
-                            <rect key="frame" x="20" y="242" width="280" height="520"/>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="7">
+                            <rect key="frame" x="10" y="37" width="300" height="260"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Tips:
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Atlanta's Oakland Cemetery
+248 Oakland Ave SE, Atlanta, 30312
+
+Oakland Cemetery is the perfect place to explore Atlanta's rich Southern history. This walking tour is roughly a mile in length and will take about 1.5 - 2 hours to complete. 
+
+The cemetery is open 365 days a year, generally 9AM-8PM. However, in the winter months, the cemetery may close shortly after dark.</string>
+                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                        </label>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" misplaced="YES" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="10">
+                            <rect key="frame" x="20" y="285" width="280" height="520"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Tips:
 
 Cemetery admission is free.
 
@@ -42,22 +60,10 @@ MARTA, the subway, is an easy option. Take the MARTA East line to King/Memorial 
 
 Restrooms, bottled water, tour maps for purchase, and a gift shop are available at the Bell Tower. You can also book a guided tour there; check www.oaklandcemetery.com for pricing and schedules. Oakland Cemetery is a non-profit organization, and relies on donations to cover operating expenses.
 
-Several restaurants and bars border the cemetery on Memorial Drive.</mutableString>
+Several restaurants and bars border the cemetery on Memorial Drive.</string>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
-                        </label>
-                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="7">
-                            <rect key="frame" x="10" y="37" width="300" height="210"/>
-                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <string key="text">Atlanta's Oakland Cemetery
-248 Oakland Ave SE, Atlanta, 30312
-
-Oakland Cemetery is the perfect place to explore Atlanta's rich Southern history. This walking tour is roughly a mile in length and will take about 1 1/2 - 2 hours to complete. The cemetery closes at 8PM daily; but in the winter plan on it closing at dark.</string>
-                            <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                     </subviews>
                     <connections>
@@ -65,14 +71,9 @@ Oakland Cemetery is the perfect place to explore Atlanta's rich Southern history
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
         </view>
     </objects>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>

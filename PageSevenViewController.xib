@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F1911" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PageSevenViewController">
@@ -16,36 +20,36 @@
             <rect key="frame" x="0.0" y="0.0" width="320" height="2120"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" bouncesZoom="NO" id="10">
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bouncesZoom="NO" id="10">
                     <rect key="frame" x="0.0" y="0.0" width="320" height="2120"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <subviews>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="  7. Confederate Section" lineBreakMode="tailTruncation" minimumFontSize="10" id="17">
                             <rect key="frame" x="0.0" y="191" width="320" height="29"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="calibratedRGB"/>
+                            <color key="backgroundColor" red="0.056930693070000003" green="0.17574257430000001" blue="0.027227722770000001" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="17"/>
-                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="18">
                             <rect key="frame" x="10" y="228" width="300" height="450"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">The Confederate section of the cemetery is marked by rows of plain, rectangular markers. About 7000 soldiers are buried here, under the simple headstones or in mass graves. 
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">The Confederate section of the cemetery is marked by rows of plain, rectangular markers. About 7000 soldiers are buried here, under the simple headstones or in mass graves. 
 Surprisingly, 16 of the graves are Union soldiers’, an uncommon practice at the time. Typically any Yankee bodies would be shipped home or buried in unmarked graves outside the city. But the Atlanta Ladies Memorial Association decided that the unclaimed young boys deserved proper burials and paid for their graves here. 
 
-This same ladies association was also responsible for the construction of the Confederate Obelisk. The obelisk is solid granite, quarried from nearby Stone Mountain. At the time of its dedication to all Confederate soldiers, in 1874, it was the tallest structure in Atlanta.</mutableString>
+This same ladies association was also responsible for the construction of the Confederate Obelisk. The obelisk is solid granite, quarried from nearby Stone Mountain. At the time of its dedication to all Confederate soldiers, in 1874, it was the tallest structure in Atlanta.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" text="Directions: The Lion of the Confederacy is close to the Obelisk, on the right." lineBreakMode="wordWrap" numberOfLines="1000" baselineAdjustment="none" minimumFontSize="18" adjustsFontSizeToFit="NO" id="20">
                             <rect key="frame" x="20" y="1892" width="280" height="70"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                             <size key="shadowOffset" width="0.0" height="0.0"/>
                         </label>
@@ -54,11 +58,11 @@ This same ladies association was also responsible for the construction of the Co
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Confederate Section" image="Confederate Section.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="25"/>
@@ -69,11 +73,11 @@ This same ladies association was also responsible for the construction of the Co
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="Confederate Obelisk" image="Confederate Obelisk.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="iO6-m1-3ax"/>
@@ -83,32 +87,32 @@ This same ladies association was also responsible for the construction of the Co
                             <rect key="frame" x="53" y="1011" width="260" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="TopLeft" lineBreakMode="wordWrap" numberOfLines="1000" minimumFontSize="10" adjustsFontSizeToFit="NO" id="2is-3E-wdb">
                             <rect key="frame" x="10" y="1040" width="300" height="440"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                            <mutableString key="text">Four prominent Civil War generals are buried in this section: John Brown Gordon, William Wright, Clement Evans and Lucius Gartrell. 
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <string key="text">Four prominent Civil War generals are buried in this section: John Brown Gordon, William Wright, Clement Evans and Lucius Gartrell. 
 
 Clement Evans was a county judge and state senator before joining the Confederate cause, at age 28. He said of the war, ‘If we cannot justify the South in the act of Secession, we will go down in History solely as a brave, impulsive but rash people who attempted in an illegal manner to overthrow the Union of our Country.’
 
-General John Brown Gordon was one of Robert E. Lee’s favorite and most trusted generals. Lee wrote that Gordon was “characterized by splendid audacity” [in a letter to Jefferson Davis from 1864]. After the war, Gordon held the offices of senator and governor of Georgia before his death in 1904.</mutableString>
+General John Brown Gordon was one of Robert E. Lee’s favorite and most trusted generals. Lee wrote that Gordon was “characterized by splendid audacity” [in a letter to Jefferson Davis from 1864]. After the war, Gordon held the offices of senator and governor of Georgia before his death in 1904.</string>
                             <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="16"/>
-                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <color key="highlightedColor" red="1" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                         </label>
                         <button opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="F6Y-pE-wSf">
                             <rect key="frame" x="20" y="1495" width="280" height="342"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="15"/>
                             <state key="normal" title="John Brown Gordon" image="John Brown Gordon.png">
-                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="calibratedRGB"/>
-                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="0.1960784314" green="0.30980392159999998" blue="0.52156862749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <state key="highlighted">
-                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </state>
                             <connections>
                                 <action selector="photoTapped:" destination="-1" eventType="touchUpInside" id="EsL-QY-1Rs"/>
@@ -118,17 +122,17 @@ General John Brown Gordon was one of Robert E. Lee’s favorite and most trusted
                             <rect key="frame" x="20" y="1837" width="260" height="21"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <fontDescription key="fontDescription" name="Georgia-Italic" family="Georgia" pointSize="14"/>
-                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <nil key="highlightedColor"/>
                         </label>
                     </subviews>
-                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
                     <connections>
                         <outlet property="delegate" destination="-1" id="11"/>
                     </connections>
                 </scrollView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
         </view>
@@ -138,9 +142,4 @@ General John Brown Gordon was one of Robert E. Lee’s favorite and most trusted
         <image name="Confederate Section.png" width="640" height="428"/>
         <image name="John Brown Gordon.png" width="320" height="391"/>
     </resources>
-    <simulatedMetricsContainer key="defaultSimulatedMetrics">
-        <simulatedStatusBarMetrics key="statusBar"/>
-        <simulatedOrientationMetrics key="orientation"/>
-        <simulatedScreenMetrics key="destination" type="retina4"/>
-    </simulatedMetricsContainer>
 </document>
